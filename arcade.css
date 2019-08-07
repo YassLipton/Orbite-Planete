@@ -1,0 +1,104 @@
+@keyframes Mercure{
+    0%{
+      transform:rotate(0deg)
+                translate(-45px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-45px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Venus{
+    0%{
+      transform:rotate(0deg)
+                translate(-90px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-90px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Terre{
+    0%{
+      transform:rotate(0deg)
+                translate(-135px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-135px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Mars{
+    0%{
+      transform:rotate(0deg)
+                translate(-180px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-180px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Jupiter{
+    0%{
+      transform:rotate(0deg)
+                translate(-225px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-225px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Saturne{
+    0%{
+      transform:rotate(0deg)
+                translate(-270px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-270px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Neptune{
+    0%{
+      transform:rotate(0deg)
+                translate(-315px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-315px)
+                rotate(-360deg);
+    }
+  }
+  @keyframes Uranus{
+    0%{
+      transform:rotate(0deg)
+                translate(-360px)
+                rotate(0deg);
+    
+    }
+    100%{
+      transform:rotate(360deg)
+                translate(-360px)
+                rotate(-360deg);
+    }
+  }
